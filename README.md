@@ -6,7 +6,7 @@ This is a simple React app that fetches posts from an API and displays them as s
 ## 📦 Features
 
 - Fetches data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts)
-- Renders dynamic content using `.map()```
+- Renders dynamic content using `.map()``
 - Responsive grid layout with CSS Grid
 - Clean, minimal card design with hover effect
 
